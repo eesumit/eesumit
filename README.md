@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Sumit.</h1>
+<h1 align="center">Namaste🙏, I'm Sumit.</h1>
 <h3 align="center">A trailblazer in crafting immersive digital experiences, merging creativity with code to shape the future of the web. 🌏 Hailing from the vibrant land of ancient wisdom and boundless innovation, where every sunrise brings a new story of inspiration. BHARAT.</h3>
 
 - 🌱 I’m currently learning **Next.js and Express.js.**
