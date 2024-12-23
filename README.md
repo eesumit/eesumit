@@ -13,10 +13,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eesumit&show_icons=true&locale=en&layout=compact" alt="eesumit" /></p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/e-sumit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/e-sumit/" height="15" width="20" /></a>
+<a href="https://www.linkedin.com/in/e-sumit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/e-sumit/" height="15" width="20" /></a>
 <a href="https://fb.com/https://www.facebook.com/sumitsingh.sp.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sumitsingh.sp.75" height="15" width="20" /></a>
 <a href="https://medium.com/@sumitsinghsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sumitsinghsp" height="15" width="20" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/e_sumit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/e_sumit/" height="15" width="20" /></a>
+<!-- <a href="https://www.leetcode.com/https://leetcode.com/u/e_sumit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/e_sumit/" height="15" width="20" /></a> -->
 </p>
 
 <!--
