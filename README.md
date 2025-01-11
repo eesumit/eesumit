@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/e-sumit/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sumit kumar" /></a>
 <a href="https://leetcode.com/e_sumit" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="e_sumit" /></a>
 </p>
+
 ```javascript
 const sumitLearned = {
   code: [C++, Javascript,HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
