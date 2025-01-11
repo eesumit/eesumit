@@ -1,4 +1,4 @@
-<h1 align="center">Namaste🙏, I'm Sumit.</h1>
+<h1 align="center">I'm Sumit.</h1>
 <h3 align="center">A trailblazer in crafting web solutions, merging creativity with code to shape the future of the web. <br> Hailing from the vibrant land of <b>India</b>.</h3>
 
 - 🌱 I’m currently learning **Next.js and Express.js.**
