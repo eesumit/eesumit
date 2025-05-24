@@ -7,7 +7,7 @@
 ```javascript
 const sumitLearned = {
   code: [C++, Javascript,HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
-  frontend: [React,Tailwind, Bootstrap],
+  frontend: [Next,React,Tailwind, Bootstrap],
   backend: [Nodejs, Express],
   databases : [MySQL, MongoDB],
   tools: [Git, Github, VSCode, Bash, Figma, Canva, Capcut],
